@@ -7,4 +7,6 @@ public class StringExample {
 
     int d;
 
+    int e;
+
 }
