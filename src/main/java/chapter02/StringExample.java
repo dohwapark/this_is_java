@@ -7,6 +7,10 @@ public class StringExample {
 
     int d;
 
+
     int e;
+
+
+    String f = "충돌실험";
 
 }
