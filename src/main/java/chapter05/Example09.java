@@ -49,7 +49,6 @@ public class Example09 {
             } else if (num == 5) {
                 run = false;
             }
-            //check
         }
 
     }
