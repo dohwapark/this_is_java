@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff9a0e0a-a9eb-45c1-985a-ca8da7e853af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/ArrayCreateByValueListExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/CharAtExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/IndexOfContainsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/ReplaceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/SplitExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/SubStringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/ArrayCopyByForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter05/ArrayCopyByForExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,18 +56,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dohwapark/Desktop/Java/this_is_java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/dohwapark/Desktop/Java/this_is_java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.ArrayReferenceObjectExample">
+}]]></component>
+  <component name="RunManager" selected="Application.Example09">
+    <configuration name="AdvancedForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.AdvancedForExample" />
+      <module name="this_is_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayCopyByForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.ArrayCopyByForExample" />
+      <module name="this_is_java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayCreateByValueListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter05.ArrayCreateByValueListExample" />
       <module name="this_is_java.main" />
@@ -101,34 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfContainsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.IndexOfContainsExample" />
-      <module name="this_is_java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReplaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.ReplaceExample" />
-      <module name="this_is_java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SplitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.SplitExample" />
+    <configuration name="Example09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.Example09" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example09" />
+        <item itemvalue="Application.AdvancedForExample" />
+        <item itemvalue="Application.ArrayCopyByForExample" />
         <item itemvalue="Application.ArrayReferenceObjectExample" />
         <item itemvalue="Application.ArrayCreateByValueListExample" />
-        <item itemvalue="Application.SplitExample" />
-        <item itemvalue="Application.IndexOfContainsExample" />
-        <item itemvalue="Application.ReplaceExample" />
       </list>
     </recent_temporary>
   </component>
@@ -171,5 +164,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
