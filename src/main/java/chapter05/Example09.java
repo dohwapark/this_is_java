@@ -48,7 +48,7 @@ public class Example09 {
                 System.out.println("평균 : " + avg);
             } else if (num == 5) {
                 run = false;
-            } // ch
+            }
         }
 
     }

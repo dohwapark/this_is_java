@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff9a0e0a-a9eb-45c1-985a-ca8da7e853af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter05/Example09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter05/Example09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example09">
-    <configuration name="AdvancedForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.AdvancedForExample" />
+  <component name="RunManager" selected="Application.chapter07.sec03.exam02.SmartPhoneExample">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Test1" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopyByForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.ArrayCopyByForExample" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Test2" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCreateByValueListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.ArrayCreateByValueListExample" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.Test3" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.*" />
+          <option name="PATTERN" value="algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayReferenceObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.ArrayReferenceObjectExample" />
+    <configuration name="chapter07.sec03.exam01.SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.sec03.exam01.SmartPhoneExample" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.*" />
+          <option name="PATTERN" value="chapter07.sec03.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.Example09" />
+    <configuration name="chapter07.sec03.exam02.SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter07.sec03.exam02.SmartPhoneExample" />
       <module name="this_is_java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.*" />
+          <option name="PATTERN" value="chapter07.sec03.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example09" />
-        <item itemvalue="Application.AdvancedForExample" />
-        <item itemvalue="Application.ArrayCopyByForExample" />
-        <item itemvalue="Application.ArrayReferenceObjectExample" />
-        <item itemvalue="Application.ArrayCreateByValueListExample" />
+        <item itemvalue="Application.chapter07.sec03.exam02.SmartPhoneExample" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.chapter07.sec03.exam01.SmartPhoneExample" />
       </list>
     </recent_temporary>
   </component>
